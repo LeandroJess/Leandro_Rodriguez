@@ -40,17 +40,10 @@
 
 - 🌱 Estoy aprendiendo en la UCB Tarija
 ---
-Desarrolladores de Software:
-
-- Estudiantes de ingeniería mecatrónica con pasión por los dispositivos electrónicos y su impacto en la mejora de la vida de las personas.
-- Capacidad de adaptación, flexibilidad y entusiasmo para enfrentar nuevos retos.
-- Trabajo en equipo y colaboración efectiva para lograr resultados excepcionales.
-- Sed de conocimiento y constante búsqueda de oportunidades para aprender y crecer.
----
 Proyectos de Software:
 
 - Participación en cursos de Jala University sobre desarrollo de software.
-- Conocimientos en lenguajes de programación, incluyendo pseudocódigo como Scratch.
+- Conocimientos en lenguajes de programación (Pseint y python), incluyendo codigo con bloques.
 - Aplicación de habilidades y conocimientos en proyectos prácticos durante la etapa universitaria.
 ---
 Experiencia en Mecatrónica:
@@ -59,16 +52,12 @@ Experiencia en Mecatrónica:
 - Curso de investigación científica sobre escritura de artículos científicos.
 - Participación en cursos de excel básico y aplicación en el análisis de datos.
 - Miembro de la Sociedad Científica de DCT, involucrado en proyectos innovadores.
+- Sed de conocimiento y constante búsqueda de oportunidades para aprender y crecer.
 ---
 Experiencia en Mantenimiento de Computadoras y Consolas:
 
 - Participación en un proyecto independiente de mantenimiento, reparación y mejora de dispositivos.
 - Trabajo en equipo para diagnosticar y solucionar problemas técnicos.
-- Excelencia en el servicio al cliente, adaptándose a sus necesidades y ofreciendo soluciones personalizadas.
-
-
-
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LeandroJess)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/leandrojesus.rodriguezorozco)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/lexndro_jess04/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://matias.ma/nsfw/)  
 
