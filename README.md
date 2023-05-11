@@ -7,7 +7,7 @@
 
 <div id="badges" align="center">
    
-    </a>
+    
    
  
 </div>
