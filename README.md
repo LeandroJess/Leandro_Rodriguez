@@ -26,29 +26,29 @@
 ### 👨‍💻 Sobre Mí :
 Desarrolladores de Software:
 
--Estudiantes de ingeniería mecatrónica con pasión por los dispositivos electrónicos y su impacto en la mejora de la vida de las personas.
--Capacidad de adaptación, flexibilidad y entusiasmo para enfrentar nuevos retos.
--Trabajo en equipo y colaboración efectiva para lograr resultados excepcionales.
--Sed de conocimiento y constante búsqueda de oportunidades para aprender y crecer.
+- Estudiantes de ingeniería mecatrónica con pasión por los dispositivos electrónicos y su impacto en la mejora de la vida de las personas.
+- Capacidad de adaptación, flexibilidad y entusiasmo para enfrentar nuevos retos.
+- Trabajo en equipo y colaboración efectiva para lograr resultados excepcionales.
+- Sed de conocimiento y constante búsqueda de oportunidades para aprender y crecer.
 ---
 Proyectos de Software:
 
--Participación en cursos de Jala University sobre desarrollo de software.
--Conocimientos en lenguajes de programación, incluyendo pseudocódigo como Scratch.
--Aplicación de habilidades y conocimientos en proyectos prácticos durante la etapa universitaria.
+- Participación en cursos de Jala University sobre desarrollo de software.
+- Conocimientos en lenguajes de programación, incluyendo pseudocódigo como Scratch.
+- Aplicación de habilidades y conocimientos en proyectos prácticos durante la etapa universitaria.
 ---
 Experiencia en Mecatrónica:
 
--Participación en programas de control y manejo de drones.
--Curso de investigación científica sobre escritura de artículos científicos.
--Participación en cursos de excel básico y aplicación en el análisis de datos.
--Miembro de la Sociedad Científica de DCT, involucrado en proyectos innovadores.
+- Participación en programas de control y manejo de drones.
+- Curso de investigación científica sobre escritura de artículos científicos.
+- Participación en cursos de excel básico y aplicación en el análisis de datos.
+- Miembro de la Sociedad Científica de DCT, involucrado en proyectos innovadores.
 ---
 Experiencia en Mantenimiento de Computadoras y Consolas:
 
--Participación en un proyecto independiente de mantenimiento, reparación y mejora de dispositivos.
--Trabajo en equipo para diagnosticar y solucionar problemas técnicos.
--Excelencia en el servicio al cliente, adaptándose a sus necesidades y ofreciendo soluciones personalizadas.
+- Participación en un proyecto independiente de mantenimiento, reparación y mejora de dispositivos.
+- Trabajo en equipo para diagnosticar y solucionar problemas técnicos.
+- Excelencia en el servicio al cliente, adaptándose a sus necesidades y ofreciendo soluciones personalizadas.
 
 - 🐼 Mi nombre completo es Leandro Jesús Rodríguez Orozco
 
