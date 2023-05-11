@@ -2,7 +2,15 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/1TgECF0mNVirC/giphy.gif" width="500" />
     <h1 align="center">Hola 👋, soy Leandro</h1>
+   </div>
+
+
+<div id="badges" align="center">
    
+    </a>
+   
+ 
+</div>
 ---
 
 ### 👨‍💻 Sobre Mí :
