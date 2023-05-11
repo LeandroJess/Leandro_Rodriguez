@@ -58,6 +58,7 @@ Experiencia en Mantenimiento de Computadoras y Consolas:
 
 - Participación en un proyecto independiente de mantenimiento, reparación y mejora de dispositivos.
 - Trabajo en equipo para diagnosticar y solucionar problemas técnicos.
+---
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LeandroJess)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/leandrojesus.rodriguezorozco)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/lexndro_jess04/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://matias.ma/nsfw/)  
 
