@@ -24,6 +24,22 @@
 ---
 
 ### 👨‍💻 Sobre Mí :
+- 🐼 Mi nombre completo es Leandro Jesús Rodríguez Orozco
+
+- 🎼 Mis hobbies son dibujar y tocar la guitarra.
+
+- 📚 Estudie en el colegio José Manuel Belgrano.
+
+- 🏫 En mi estadía en el colegio obtuve logros como representante cultural de la promoción, participe en concursos de dibujo y también toque en varias ocasiones con mi banda para diferentes actividades ya sea dentro o fuera del colegio.
+
+- 🦾 Decidí estudiarla carrera de Ing. Mecatrónica ya que desde muy pequeño siempre tuve demasiada curiosidad con los aparatos tecnológicos, a pesar de que no destaco en programación o matemáticas daré mi mejor esfuerzo para ser el mejor Ing. Mecatrónico.
+
+- 💻 Después de salir de la universidad me gustaría crear una asistencia robótica para personas con discapacidades físicas: Un robot diseñado para ayudar a las personas con discapacidades físicas a realizar tareas cotidianas, como moverse dentro y fuera de la cama o levantar objetos pesados. También mencionar que tengo conocimiento muy básico con el lenguaje de programación python.
+
+- 📫 Mi correo personal es: **leandrorodriguezorozco51@gmail.com**
+
+- 🌱 Estoy aprendiendo en la UCB Tarija
+---
 Desarrolladores de Software:
 
 - Estudiantes de ingeniería mecatrónica con pasión por los dispositivos electrónicos y su impacto en la mejora de la vida de las personas.
@@ -50,31 +66,6 @@ Experiencia en Mantenimiento de Computadoras y Consolas:
 - Trabajo en equipo para diagnosticar y solucionar problemas técnicos.
 - Excelencia en el servicio al cliente, adaptándose a sus necesidades y ofreciendo soluciones personalizadas.
 
-- 🐼 Mi nombre completo es Leandro Jesús Rodríguez Orozco
-
-- 🎼 Mis hobbies son dibujar y tocar la guitarra.
-
-- 📚 Estudie en el colegio José Manuel Belgrano.
-
-- 🏫 En mi estadía en el colegio obtuve logros como representante cultural de la promoción, participe en concursos de dibujo y también toque en varias ocasiones con mi banda para diferentes actividades ya sea dentro o fuera del colegio.
-
-- 🦾 Decidí estudiarla carrera de Ing. Mecatrónica ya que desde muy pequeño siempre tuve demasiada curiosidad con los aparatos tecnológicos, a pesar de que no destaco en programación o matemáticas daré mi mejor esfuerzo para ser el mejor Ing. Mecatrónico.
-
-- 💻 Después de salir de la universidad me gustaría crear una asistencia robótica para personas con discapacidades físicas: Un robot diseñado para ayudar a las personas con discapacidades físicas a realizar tareas cotidianas, como moverse dentro y fuera de la cama o levantar objetos pesados. También mencionar que tengo conocimiento muy básico con el lenguaje de programación python.
-
-- 📝 Me gusta leer libros de acción, suspenso y terror
-
-- 💬 Estoy aprendiendo a programar en python 
-
-- 📫 Mi correo personal es: **leandrorodriguezorozco51@gmail.com**
-
-- 🌱 Estoy aprendiendo en la UCB Tarija
-
-- 😄 Pronombres: Lelan 
-
----
-
-Habilidades: Cocinar huevito, dibujar y tocar guitarra.
 
 
 
