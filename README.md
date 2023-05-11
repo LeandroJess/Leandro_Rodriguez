@@ -2,25 +2,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/1TgECF0mNVirC/giphy.gif" width="500" />
     <h1 align="center">Hola 👋, soy Leandro</h1>
-    
-
-      
-</div>
-
-
-<div id="badges" align="center">
-    <a href="https://www.twitch.tv/lelanpapaya" target="_blank">
-        <img src="https://img.shields.io/twitch/status/youdevs?color=purple&logo=twitch&style=for-the-badge"
-            alt="Twitch Badge" />
-    </a>
-    <a href="https://youtu.be/dQw4w9WgXcQ" target="_blank">
-        <img src="https://img.shields.io/youtube/channel/subscribers/UC4hHrYhWMy-iN29_3bJ7zfA?label=suscriptores&logo=youtube&style=for-the-badge"
-            alt="Youtube Badge" />
-    </a>
    
- 
-</div>
-
 ---
 
 ### 👨‍💻 Sobre Mí :
